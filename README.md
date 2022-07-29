@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-	<head><title>APM MODZ</title></head>
 	<body>
         <img src="apm.jpeg" height="500px" width="500px"><br>
         ★ 𝐀𝐏𝐌 𝐌𝐎𝐃𝐙 𝐕𝟏𝟗 ★
