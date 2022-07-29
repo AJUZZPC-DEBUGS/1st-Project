@@ -6,7 +6,7 @@
 
 <br>
        Html Created By Ajaljerry<br>
-        <audio controls>
+        <audio autoplay>
 		<source src="League of Legends.mp3" type="audio/mpeg">
 		
 		
