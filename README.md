@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<body>
-        <img src="apm.jpeg" height="500px" width="500px"><br>
+        <img src="apm.jpeg" height="400px" width="500px"><br>
         ★ 𝐀𝐏𝐌 𝐌𝐎𝐃𝐙 𝐕𝟏𝟗 ★
 
 <br>
-       Html Created By Ajaljerry<br>
-        <audio autoplay>
-		<source src="League of Legends.mp3" type="audio/mpeg">
-		
+       html Created By Ajaljerry<br>
+        		
 		
 </html>
 	
