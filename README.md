@@ -3,6 +3,9 @@
 -->
 <div align="center">
 <br>
+
+<img src="logo.png" height="500px" width="500px"><br>
+        ★ 𝐀𝐏𝐌 𝐌𝐎𝐃𝐙 𝐕𝟏𝟗 ★
   
   <div>
 <br>
